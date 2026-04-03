@@ -1,60 +1,69 @@
 <div align="center">
   <img src="assets/kinoflux.png" alt="kinoflux Logo" width="120" />
-  <h1>kinoflux Player</h1>
+  <h1>kinoflux Video Player</h1>
   <p>
-    <strong>The Modern, Minimalist Video Player for Windows.</strong>
+    <strong>A clean, fast, and modern video player for Windows.</strong>
   </p>
 
-[![Built by NTXM](https://img.shields.io/badge/Built%20by-NTXM-black?style=for-the-badge)](https://ntxm.org)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](https://ntxm.org/products/fluxgrab)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)]()
-[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows)](https://github.com/ntxmproducts/kinoflux-player/releases/tag/KinoFlux-video-player)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows)](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/KinoFlux-video-player)
 
   <p>
-    <a href="#features">Features</a> •
+    <a href="#why-kinoflux">Why kinoflux</a> •
+    <a href="#highlights">Highlights</a> •
+    <a href="#keyboard-shortcuts">Shortcuts</a> •
     <a href="#screenshots">Screenshots</a> •
-    <a href="#installation">Installation</a>
+    <a href="#get-started">Get Started</a>
   </p>
 </div>
 
 ---
 
-## 🎥 About kinoflux
+## Why kinoflux
 
-**kinoflux** is designed for one thing: the viewing experience. We stripped away the cluttered menus and complex settings found in traditional video players to create a lightweight, distraction-free environment for your media.
+kinoflux Video Player is made for people who just want to open a video and enjoy it.
+No clutter, no confusion, no heavy setup.
 
-Whether you are watching high-definition movies or personal clips, kinoflux puts the content center stage with a sleek dark-mode interface that looks great on Windows 10 and 11.
+It is built to feel smooth, simple, and premium from the first click.
 
-## ✨ Key Features
+## Highlights
 
-* **Distraction-Free UI:** No toolbar clutter. Just your video and essential controls.
-* **Modern Aesthetics:** Built with a "dark mode first" philosophy.
-* **Lightweight:** Launches instantly and uses minimal system resources.
-* **Format Support:** Plays all standard video formats smoothly.
-* **Easy Controls:** Intuitive seeking, volume, and playback management.
+- Clean and modern interface
+- Fast startup and responsive playback
+- Essential controls that stay out of your way
+- Designed for everyday watching on Windows
+
+## Keyboard Shortcuts
+
+| Key        | Action                   |
+| ---------- | ------------------------ |
+| Space, K   | Play or Pause            |
+| Left, J    | Seek backward 10 seconds |
+| Right, L   | Seek forward 10 seconds  |
+| Up or Down | Volume up or down        |
+| M          | Mute or Unmute           |
+| F or F11   | Toggle Fullscreen        |
+| Esc        | Exit Fullscreen          |
 
 <div id="screenshots" align="center">
-  <h2>📸 Screenshots</h2>
+  <h2>Screenshots</h2>
   <br>
   <img src="assets/KinoFluxPlayerScreen.png" alt="kinoflux Playback Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
-  <p><em>Clean playback interface focused on the content.</em></p>
+  <p><em>Focused playback screen with clean controls.</em></p>
   <br>
   <img src="assets/KinoFluxHomeScreen.png" alt="kinoflux Home Screen" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
-  <p><em>Simple "Open Video" welcome screen.</em></p>
+  <p><em>Simple home screen to start watching quickly.</em></p>
 </div>
 
-## ⬇️ Installation
+## Get Started
 
-kinoflux is built exclusively for Windows.
+1. **[Download the installer](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/KinoFlux-video-player)**
+2. Open the setup file and finish installation
+3. Launch kinoflux Video Player and play your video
 
-1.  **[Download the Setup File](https://github.com/ntxmproducts/kinoflux-player/releases/tag/KinoFlux-video-player)** (`kinofluxPlayer-Setup.exe`).
-2.  Run the installer.
-3.  Launch kinoflux from your desktop or start menu.
-4.  Drag and drop a video or click the folder icon to start watching.
+## Privacy
 
-## 🛡️ Privacy & Safety
-
-kinoflux runs locally on your machine. It does not track your viewing habits or upload your files to the cloud.
+Your videos stay on your device.
+kinoflux does not upload your media.
 
 ---
 

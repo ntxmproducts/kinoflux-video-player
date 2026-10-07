@@ -1,6 +1,6 @@
 <div align="center">
 
-# KinoFlux Video Player
+# KinoFlux Player
 
 ### Free proprietary offline video player for Windows and macOS
 
@@ -42,7 +42,7 @@ For Windows 10/11 (x64) and macOS (Apple Silicon).
 |:---------|:-----|-----:|:---------|
 | **Windows** | [`Kinoflux-Player-Setup-1.2.0-x64.exe`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-Setup-1.2.0-x64.exe) | 36.5 MB (38,241,992 bytes) | Windows 10 or 11, 64-bit |
 | **macOS** | [`Kinoflux-Player-1.2.0-macos-arm64.dmg`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-1.2.0-macos-arm64.dmg) | 33.6 MB (35,202,523 bytes) | Apple Silicon (M1 or newer) |
-| **Windows Store** | [Kinoflux Video Player](https://apps.microsoft.com/detail/9PJC13FSD9FJ) | | Microsoft Store listing |
+| **Windows Store** | [KinoFlux Player](https://apps.microsoft.com/detail/9PJC13FSD9FJ) | | Microsoft Store listing |
 | **Both** | [Release page for v1.2.0](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/v1.2.0) | | Release notes and all files |
 
 **SHA-256 checksums** (compare them with your download before you run it):
@@ -57,7 +57,7 @@ Windows (Command Prompt):  certutil -hashfile Kinoflux-Player-Setup-1.2.0-x64.ex
 macOS (Terminal):          shasum -a 256 Kinoflux-Player-1.2.0-macos-arm64.dmg
 ```
 
-KinoFlux Video Player is **free to download and use**, with no subscription and no account. It is proprietary software from ntxm. See [Licence](#licence).
+KinoFlux Player is **free to download and use**, with no subscription and no account. It is proprietary software from ntxm. See [Licence](#licence).
 
 Product page: [ntxm.org/products/kinoflux/videoplayer](https://www.ntxm.org/products/kinoflux/videoplayer/)
 
@@ -119,7 +119,7 @@ Common containers including MKV, MP4, AVI, MOV and WebM.
 
 ## Privacy
 
-KinoFlux Video Player is built for **offline local playback**:
+KinoFlux Player is built for **offline local playback**:
 
 - Videos stay on your computer
 - No account is required to play files
@@ -139,7 +139,7 @@ Yes. It plays local files without an internet connection.
 Yes. Windows 10/11 x64 and macOS on Apple Silicon. The Microsoft Store listing covers Windows.
 
 **Open source?**  
-No. KinoFlux Video Player is proprietary free software.
+No. KinoFlux Player is proprietary free software.
 
 ---
 
@@ -147,7 +147,7 @@ No. KinoFlux Video Player is proprietary free software.
 
 Copyright (c) ntxm / Nitiksh Kumar. All rights reserved.
 
-KinoFlux Video Player is proprietary software. You may download and use the published binaries for personal or internal use under the terms published with the product. Redistribution of the binaries or source is not permitted unless ntxm grants written permission.
+KinoFlux Player is proprietary software. You may download and use the published binaries for personal or internal use under the terms published with the product. Redistribution of the binaries or source is not permitted unless ntxm grants written permission.
 
 ---
 

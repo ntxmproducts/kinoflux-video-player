@@ -1,72 +1,158 @@
 <div align="center">
-  <img src="assets/kinoflux.png" alt="kinoflux Logo" width="120" />
-  <h1>kinoflux Video Player</h1>
-  <p>
-    <strong>A clean, fast, and modern video player for Windows.</strong>
-  </p>
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows)](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/KinoFlux-video-player)
+# KinoFlux Video Player
 
-  <p>
-    <a href="#why-kinoflux">Why kinoflux</a> •
-    <a href="#highlights">Highlights</a> •
-    <a href="#keyboard-shortcuts">Shortcuts</a> •
-    <a href="#screenshots">Screenshots</a> •
-    <a href="#get-started">Get Started</a>
-  </p>
+### Free proprietary offline video player for Windows and macOS
+
+**Local files only.** Dark minimal UI, library, playback speed, picture adjust.<br/>
+For Windows 10/11 (x64) and macOS (Apple Silicon).
+
+<br/>
+
+[![Version 1.2.0](https://img.shields.io/badge/version-1.2.0-F14116?style=for-the-badge)](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/v1.2.0)
+[![Windows 10 and 11, 64-bit](https://img.shields.io/badge/Windows-10%20%7C%2011-0f1218?style=for-the-badge&logo=windows&logoColor=white)](#download)
+[![macOS, Apple Silicon](https://img.shields.io/badge/macOS-Apple%20Silicon-0f1218?style=for-the-badge&logo=apple&logoColor=white)](#download)
+[![100% offline](https://img.shields.io/badge/100%25-offline-14b8a6?style=for-the-badge)](#privacy)
+[![License: proprietary](https://img.shields.io/badge/license-proprietary-b91c1c?style=for-the-badge)](#licence)
+
+<p>
+  <a href="#download"><b>Download</b></a> &nbsp;|&nbsp;
+  <a href="#features"><b>Features</b></a> &nbsp;|&nbsp;
+  <a href="#install"><b>Install</b></a> &nbsp;|&nbsp;
+  <a href="#privacy"><b>Privacy</b></a> &nbsp;|&nbsp;
+  <a href="#faq"><b>FAQ</b></a> &nbsp;|&nbsp;
+  <a href="https://www.ntxm.org/products/kinoflux/videoplayer/"><b>Product page</b></a>
+</p>
+
 </div>
 
 ---
 
-## Why kinoflux
+## Download
 
-kinoflux Video Player is made for people who just want to open a video and enjoy it.
-No clutter, no confusion, no heavy setup.
+<div align="center">
 
-It is built to feel smooth, simple, and premium from the first click.
+[![Download for Windows](https://img.shields.io/badge/%E2%AC%87_Download-Windows%20installer-F14116?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-Setup-1.2.0-x64.exe)
+[![Download for macOS](https://img.shields.io/badge/%E2%AC%87_Download-macOS%20disk%20image-0f1218?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-1.2.0-macos-arm64.dmg)
+[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-9PJC13FSD9FJ-0ea5e9?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9PJC13FSD9FJ)
 
-## Highlights
-
-- Clean and modern interface
-- Fast startup and responsive playback
-- Essential controls that stay out of your way
-- Designed for everyday watching on Windows
-
-## Keyboard Shortcuts
-
-| Key        | Action                   |
-| ---------- | ------------------------ |
-| Space, K   | Play or Pause            |
-| Left, J    | Seek backward 10 seconds |
-| Right, L   | Seek forward 10 seconds  |
-| Up or Down | Volume up or down        |
-| M          | Mute or Unmute           |
-| F or F11   | Toggle Fullscreen        |
-| Esc        | Exit Fullscreen          |
-
-<div id="screenshots" align="center">
-  <h2>Screenshots</h2>
-  <br>
-  <img src="assets/KinoFluxPlayerScreen.png" alt="kinoflux Playback Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
-  <p><em>Focused playback screen with clean controls.</em></p>
-  <br>
-  <img src="assets/KinoFluxHomeScreen.png" alt="kinoflux Home Screen" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
-  <p><em>Simple home screen to start watching quickly.</em></p>
 </div>
 
-## Get Started
+| Platform | File | Size | Requires |
+|:---------|:-----|-----:|:---------|
+| **Windows** | [`Kinoflux-Player-Setup-1.2.0-x64.exe`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-Setup-1.2.0-x64.exe) | 36.5 MB (38,241,992 bytes) | Windows 10 or 11, 64-bit |
+| **macOS** | [`Kinoflux-Player-1.2.0-macos-arm64.dmg`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-1.2.0-macos-arm64.dmg) | 33.6 MB (35,202,523 bytes) | Apple Silicon (M1 or newer) |
+| **Windows Store** | [Kinoflux Video Player](https://apps.microsoft.com/detail/9PJC13FSD9FJ) | | Microsoft Store listing |
+| **Both** | [Release page for v1.2.0](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/v1.2.0) | | Release notes and all files |
 
-1. **[Download the installer](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/KinoFlux-video-player)**
-2. Open the setup file and finish installation
-3. Launch kinoflux Video Player and play your video
+**SHA-256 checksums** (compare them with your download before you run it):
+
+```text
+a865b9566f7a03d2101317dadaff2f2273583578ee6b1b2092db9fe0f2bb4bb4  Kinoflux-Player-Setup-1.2.0-x64.exe
+11a533a35e9f414fba1a70f1e63ca0f5e55fc488513b7f9245dd85de407b3f6f  Kinoflux-Player-1.2.0-macos-arm64.dmg
+```
+
+```text
+Windows (Command Prompt):  certutil -hashfile Kinoflux-Player-Setup-1.2.0-x64.exe SHA256
+macOS (Terminal):          shasum -a 256 Kinoflux-Player-1.2.0-macos-arm64.dmg
+```
+
+KinoFlux Video Player is **free to download and use**, with no subscription and no account. It is proprietary software from ntxm. See [Licence](#licence).
+
+Product page: [ntxm.org/products/kinoflux/videoplayer](https://www.ntxm.org/products/kinoflux/videoplayer/)
+
+---
+
+## Features
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Home and library**<br/>
+Jump back into recent videos and browse local files from a clean dark UI.
+
+**Player**<br/>
+Hardware-accelerated playback with a distraction-free layout for everyday watching.
+
+**Speed**<br/>
+Change playback speed when you want to skim or slow a scene down.
+
+</td>
+<td width="50%" valign="top">
+
+**Adjust**<br/>
+Tune picture and audio from a compact panel without leaving the video.
+
+**Privacy**<br/>
+Offline local player. No account gate and no telemetry for watching your own files.
+
+**Formats**<br/>
+Common containers including MKV, MP4, AVI, MOV and WebM.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Install
+
+### Windows (direct installer)
+
+1. Download [`Kinoflux-Player-Setup-1.2.0-x64.exe`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-Setup-1.2.0-x64.exe).
+2. Run the installer. If SmartScreen appears, choose **More info**, then **Run anyway**.
+3. Start **KinoFlux Player** from the Start menu.
+
+### Windows (Microsoft Store)
+
+1. Open the [Microsoft Store listing](https://apps.microsoft.com/detail/9PJC13FSD9FJ).
+2. Click **Get**. Store installs are signed by Microsoft.
+
+### macOS (Apple Silicon)
+
+1. Download [`Kinoflux-Player-1.2.0-macos-arm64.dmg`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-1.2.0-macos-arm64.dmg).
+2. Open the disk image and drag the app into **Applications**.
+3. If Gatekeeper blocks the first open, right-click the app, choose **Open**, then confirm.
+
+---
 
 ## Privacy
 
-Your videos stay on your device.
-kinoflux does not upload your media.
+KinoFlux Video Player is built for **offline local playback**:
+
+- Videos stay on your computer
+- No account is required to play files
+- No telemetry for watching your own media
 
 ---
 
-<div align="center">
-  <p>Created by ntxm.org</p>
-</div>
+## FAQ
+
+**Is it free?**  
+Yes. Free to download and use. Proprietary software from ntxm.
+
+**Does it work offline?**  
+Yes. It plays local files without an internet connection.
+
+**Windows and Mac?**  
+Yes. Windows 10/11 x64 and macOS on Apple Silicon. The Microsoft Store listing covers Windows.
+
+**Open source?**  
+No. KinoFlux Video Player is proprietary free software.
+
+---
+
+## Licence
+
+Copyright (c) ntxm / Nitiksh Kumar. All rights reserved.
+
+KinoFlux Video Player is proprietary software. You may download and use the published binaries for personal or internal use under the terms published with the product. Redistribution of the binaries or source is not permitted unless ntxm grants written permission.
+
+---
+
+## Support
+
+- Product page: https://www.ntxm.org/products/kinoflux/videoplayer/
+- Releases: https://github.com/ntxmproducts/kinoflux-video-player/releases
+- Contact: contact@ntxm.org

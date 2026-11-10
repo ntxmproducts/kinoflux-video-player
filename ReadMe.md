@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="KinoFlux Player" width="160" />
+
 # KinoFlux Player
 
 ### Free proprietary offline video and music player for Windows and macOS
@@ -17,6 +19,7 @@ For Windows 10/11 (x64) and macOS (Apple Silicon).
 
 <p>
   <a href="#download"><b>Download</b></a> &nbsp;|&nbsp;
+  <a href="#screenshots"><b>Screenshots</b></a> &nbsp;|&nbsp;
   <a href="#features"><b>Features</b></a> &nbsp;|&nbsp;
   <a href="#install"><b>Install</b></a> &nbsp;|&nbsp;
   <a href="#privacy"><b>Privacy</b></a> &nbsp;|&nbsp;
@@ -60,6 +63,29 @@ macOS (Terminal):          shasum -a 256 Kinoflux-Player-1.2.1-macos-arm64.pkg
 KinoFlux Player is **free to download and use**, with no subscription and no account. It is proprietary software from ntxm. See [Licence](#licence).
 
 Product page: [ntxm.org/products/kinoflux/videoplayer](https://www.ntxm.org/products/kinoflux/videoplayer/)
+
+---
+
+## Screenshots
+
+<div align="center">
+
+### Home
+<img src="assets/home.png" alt="KinoFlux Player home screen" width="900" />
+
+### Video player
+<img src="assets/player.png" alt="KinoFlux Player video playback" width="900" />
+
+### Library
+<img src="assets/library.png" alt="KinoFlux Player video library" width="900" />
+
+### Playlist controls
+<img src="assets/player-queue.png" alt="KinoFlux Player with playlist and controls" width="900" />
+
+### Music player
+<img src="assets/music.png" alt="KinoFlux Player music page with queue" width="900" />
+
+</div>
 
 ---
 

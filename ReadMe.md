@@ -1,15 +1,17 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="KinoFlux Player" width="160" />
+
 # KinoFlux Player
 
-### Free proprietary offline video player for Windows and macOS
+### Free proprietary offline video and music player for Windows and macOS
 
-**Local files only.** Dark minimal UI, library, playback speed, picture adjust.<br/>
+**Local files only.** Dark minimal UI, library, music player, playback speed, picture adjust.<br/>
 For Windows 10/11 (x64) and macOS (Apple Silicon).
 
 <br/>
 
-[![Version 1.2.0](https://img.shields.io/badge/version-1.2.0-F14116?style=for-the-badge)](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/v1.2.0)
+[![Version 1.2.1](https://img.shields.io/badge/version-1.2.1-F14116?style=for-the-badge)](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/v1.2.1)
 [![Windows 10 and 11, 64-bit](https://img.shields.io/badge/Windows-10%20%7C%2011-0f1218?style=for-the-badge&logo=windows&logoColor=white)](#download)
 [![macOS, Apple Silicon](https://img.shields.io/badge/macOS-Apple%20Silicon-0f1218?style=for-the-badge&logo=apple&logoColor=white)](#download)
 [![100% offline](https://img.shields.io/badge/100%25-offline-14b8a6?style=for-the-badge)](#privacy)
@@ -17,6 +19,7 @@ For Windows 10/11 (x64) and macOS (Apple Silicon).
 
 <p>
   <a href="#download"><b>Download</b></a> &nbsp;|&nbsp;
+  <a href="#screenshots"><b>Screenshots</b></a> &nbsp;|&nbsp;
   <a href="#features"><b>Features</b></a> &nbsp;|&nbsp;
   <a href="#install"><b>Install</b></a> &nbsp;|&nbsp;
   <a href="#privacy"><b>Privacy</b></a> &nbsp;|&nbsp;
@@ -32,34 +35,66 @@ For Windows 10/11 (x64) and macOS (Apple Silicon).
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/%E2%AC%87_Download-Windows%20installer-F14116?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-Setup-1.2.0-x64.exe)
-[![Download for macOS](https://img.shields.io/badge/%E2%AC%87_Download-macOS%20disk%20image-0f1218?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-1.2.0-macos-arm64.dmg)
+[![Download for Windows](https://img.shields.io/badge/%E2%AC%87_Download-Windows%20installer-F14116?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.1/Kinoflux-Player-Setup-1.2.1-x64.exe)
+[![Download for macOS](https://img.shields.io/badge/%E2%AC%87_Download-macOS%20installer-0f1218?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.1/Kinoflux-Player-1.2.1-macos-arm64.pkg)
 [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-9PJC13FSD9FJ-0ea5e9?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9PJC13FSD9FJ)
 
 </div>
 
 | Platform | File | Size | Requires |
 |:---------|:-----|-----:|:---------|
-| **Windows** | [`Kinoflux-Player-Setup-1.2.0-x64.exe`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-Setup-1.2.0-x64.exe) | 36.5 MB (38,241,992 bytes) | Windows 10 or 11, 64-bit |
-| **macOS** | [`Kinoflux-Player-1.2.0-macos-arm64.dmg`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-1.2.0-macos-arm64.dmg) | 33.6 MB (35,202,523 bytes) | Apple Silicon (M1 or newer) |
+| **Windows** | [`Kinoflux-Player-Setup-1.2.1-x64.exe`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.1/Kinoflux-Player-Setup-1.2.1-x64.exe) | 36.7 MB (38,461,626 bytes) | Windows 10 or 11, 64-bit |
+| **macOS** | [`Kinoflux-Player-1.2.1-macos-arm64.pkg`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.1/Kinoflux-Player-1.2.1-macos-arm64.pkg) | 32.7 MB (34,322,885 bytes) | Apple Silicon (M1 or newer) |
 | **Windows Store** | [KinoFlux Player](https://apps.microsoft.com/detail/9PJC13FSD9FJ) | | Microsoft Store listing |
-| **Both** | [Release page for v1.2.0](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/v1.2.0) | | Release notes and all files |
+| **Both** | [All releases](https://github.com/ntxmproducts/kinoflux-video-player/releases) · [v1.2.1 notes](https://github.com/ntxmproducts/kinoflux-video-player/releases/tag/v1.2.1) | | Release notes and all files |
 
 **SHA-256 checksums** (compare them with your download before you run it):
 
 ```text
-a865b9566f7a03d2101317dadaff2f2273583578ee6b1b2092db9fe0f2bb4bb4  Kinoflux-Player-Setup-1.2.0-x64.exe
-11a533a35e9f414fba1a70f1e63ca0f5e55fc488513b7f9245dd85de407b3f6f  Kinoflux-Player-1.2.0-macos-arm64.dmg
+32a7848afae8cfee02e9d61d6f5a20d7b65a7d0e841a11434226abc61e196613  Kinoflux-Player-Setup-1.2.1-x64.exe
+c75d905f2229e34096300a3a92ede49a07c3759619e10743dbf46257a05424cd  Kinoflux-Player-1.2.1-macos-arm64.pkg
 ```
 
 ```text
-Windows (Command Prompt):  certutil -hashfile Kinoflux-Player-Setup-1.2.0-x64.exe SHA256
-macOS (Terminal):          shasum -a 256 Kinoflux-Player-1.2.0-macos-arm64.dmg
+Windows (Command Prompt):  certutil -hashfile Kinoflux-Player-Setup-1.2.1-x64.exe SHA256
+macOS (Terminal):          shasum -a 256 Kinoflux-Player-1.2.1-macos-arm64.pkg
 ```
 
 KinoFlux Player is **free to download and use**, with no subscription and no account. It is proprietary software from ntxm. See [Licence](#licence).
 
 Product page: [ntxm.org/products/kinoflux/videoplayer](https://www.ntxm.org/products/kinoflux/videoplayer/)
+
+---
+
+## Screenshots
+
+<div align="center">
+
+### Home
+<img src="assets/home.png" alt="KinoFlux Player home screen" width="900" />
+
+### Video player
+<img src="assets/player.png" alt="KinoFlux Player video playback" width="900" />
+
+### Library
+<img src="assets/library.png" alt="KinoFlux Player video library" width="900" />
+
+### Playlist controls
+<img src="assets/player-queue.png" alt="KinoFlux Player with playlist and controls" width="900" />
+
+### Music player
+<img src="assets/music.png" alt="KinoFlux Player music page with queue" width="900" />
+
+</div>
+
+---
+
+## What's new in 1.2.1
+
+- **Music player** — open a song and the whole folder becomes your queue, with shuffle, repeat, speed, pitch, and a bass/mid/treble mixer
+- **Refreshed UI** — clearer home, player chrome, and control bar
+- **macOS installer** — Apple Silicon installs via `.pkg` into Applications (registers Finder “Open With”; no DMG in this release)
+- Floating control panel correctly hides when the main window is minimized
 
 ---
 
@@ -72,23 +107,23 @@ Product page: [ntxm.org/products/kinoflux/videoplayer](https://www.ntxm.org/prod
 **Home and library**<br/>
 Jump back into recent videos and browse local files from a clean dark UI.
 
+**Music**<br/>
+Dedicated music page with folder queue, shuffle, repeat, and an EQ-style mixer.
+
 **Player**<br/>
 Hardware-accelerated playback with a distraction-free layout for everyday watching.
-
-**Speed**<br/>
-Change playback speed when you want to skim or slow a scene down.
 
 </td>
 <td width="50%" valign="top">
 
-**Adjust**<br/>
-Tune picture and audio from a compact panel without leaving the video.
+**Speed and adjust**<br/>
+Change playback speed and tune picture and audio without leaving the media.
 
 **Privacy**<br/>
 Offline local player. No account gate and no telemetry for watching your own files.
 
 **Formats**<br/>
-Common containers including MKV, MP4, AVI, MOV and WebM.
+Common video and audio containers including MKV, MP4, AVI, MOV, WebM, MP3, FLAC, and more.
 
 </td>
 </tr>
@@ -100,7 +135,7 @@ Common containers including MKV, MP4, AVI, MOV and WebM.
 
 ### Windows (direct installer)
 
-1. Download [`Kinoflux-Player-Setup-1.2.0-x64.exe`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-Setup-1.2.0-x64.exe).
+1. Download [`Kinoflux-Player-Setup-1.2.1-x64.exe`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.1/Kinoflux-Player-Setup-1.2.1-x64.exe).
 2. Run the installer. If SmartScreen appears, choose **More info**, then **Run anyway**.
 3. Start **KinoFlux Player** from the Start menu.
 
@@ -111,9 +146,15 @@ Common containers including MKV, MP4, AVI, MOV and WebM.
 
 ### macOS (Apple Silicon)
 
-1. Download [`Kinoflux-Player-1.2.0-macos-arm64.dmg`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.0/Kinoflux-Player-1.2.0-macos-arm64.dmg).
-2. Open the disk image and drag the app into **Applications**.
-3. If Gatekeeper blocks the first open, right-click the app, choose **Open**, then confirm.
+1. Download [`Kinoflux-Player-1.2.1-macos-arm64.pkg`](https://github.com/ntxmproducts/kinoflux-video-player/releases/download/v1.2.1/Kinoflux-Player-1.2.1-macos-arm64.pkg).
+2. Open the installer and finish the steps. The app installs to **Applications** and registers for Finder **Open With**.
+3. If Gatekeeper blocks the first open, go to **System Settings → Privacy & Security** and choose **Open Anyway**, or run:
+   ```bash
+   xattr -cr "/Applications/Kinoflux Player.app"
+   open "/Applications/Kinoflux Player.app"
+   ```
+
+> **Note:** Starting with 1.2.1, macOS ships as a **`.pkg` installer only** (no `.dmg`). Prefer the `.pkg` so Launch Services picks up file associations.
 
 ---
 
@@ -121,7 +162,7 @@ Common containers including MKV, MP4, AVI, MOV and WebM.
 
 KinoFlux Player is built for **offline local playback**:
 
-- Videos stay on your computer
+- Videos and music stay on your computer
 - No account is required to play files
 - No telemetry for watching your own media
 
@@ -137,6 +178,9 @@ Yes. It plays local files without an internet connection.
 
 **Windows and Mac?**  
 Yes. Windows 10/11 x64 and macOS on Apple Silicon. The Microsoft Store listing covers Windows.
+
+**Where is the macOS DMG?**  
+1.2.1 uses a `.pkg` installer instead. It installs to Applications and registers Open With more reliably than a disk image.
 
 **Open source?**  
 No. KinoFlux Player is proprietary free software.
